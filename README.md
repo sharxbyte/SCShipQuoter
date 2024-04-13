@@ -16,7 +16,4 @@ This tool provides a graphical user interface (GUI) for configuring various aspe
 - Apply multipliers based on the category of the spaceship (e.g., starter, premium).
 
 ## Installation
-
-### Prerequisites
-
-Ensure you have Python installed on your system. This program has been tested with Python 3.8 and above. You also need to install several Python libraries which are listed in the `requirements.txt`.
+executable should function on any machine without installation.
